@@ -10,7 +10,7 @@ This C++ program showcases various loops and control statements.
 
 ## Technologies
 - C++
-- STL
+- STL (Standard Template Library)
 - Randomization
 - I/O stream
 
